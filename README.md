@@ -60,7 +60,7 @@ Code Provider
 
 ## Scope (contracts)
 
-All items within the below directory 
+All items within the below directory **mocks can be considered in-scope**
 https://github.com/Cyfrin/2024-01-Morpheus
 
 ```
