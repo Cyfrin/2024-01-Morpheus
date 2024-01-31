@@ -222,5 +222,7 @@ Minimum - 1/3 yield - How far you take it out.
 
 - LIDO Staking potential attack vector -  There is a mismatch between re-base rewards issued from LIDO to the MOR Project and MOR rewards issued to stakers that withdraw stETH immediately prior to the rebase time each day. The 7 day lockup restricts the maximum variance to 12.5% "boost"
 
+Additional Known Issues as detected by static Analysis: https://github.com/Cyfrin/2024-01-Morpheus/issues/1
+
 
 
