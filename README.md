@@ -1,10 +1,6 @@
 # MorpheusAI
 
-<p align="center">
-<img src="https://res.cloudinary.com/droqoz7lg/image/upload/q_90/dpr_2.0/c_fill,g_auto,h_320,w_320/f_auto/v1/company/lqgum0l8pxf8butrd13n?_a=BATAUVAA0" width="500" alt="Morpheus">
-</p>
-
-
+[//]: # (contest-details-open)
 
 ## Contest Details
 
@@ -57,6 +53,9 @@ Capital Provider
 Code Provider 
 - imported into the smart contract 
 
+[//]: # (contest-details-close)
+
+[//]: # (scope-open)
 
 ## Scope (contracts)
 
@@ -108,9 +107,11 @@ Compatibiilities:
   - stETH
   - MOR
 
+[//]: # (scope-close)
 
+[//]: # (getting-started-open)
 
-## Setup
+## Getting Started
 
 ```
 git clone https://github.com/Cyfrin/2024-01-Morpheus.git
@@ -194,6 +195,10 @@ npm run generate-types
 
 > See the full list of available commands in the `package.json` file.
 
+[//]: # (getting-started-close)
+
+[//]: # (known-issues-open)
+
 ## Known Issues:
 
 - Users interacting with the MorpheusAI Smart Contracts must be aware of the privileged roles in the protocol and which actions these privileged roles can perform. Distribution.sol is the contract that will hold the user's staked funds i.e. a token such as stETH. Currently, there are mechanisms, controlled only by the owner of the contract, that can cause indefinite custody of the user's deposited tokens. In other words, users would never be able to withdraw their staked funds again. The owner role must be fully trusted.
@@ -224,5 +229,4 @@ Minimum - 1/3 yield - How far you take it out.
 
 Additional Known Issues as detected by static Analysis: https://github.com/Cyfrin/2024-01-Morpheus/issues/1
 
-
-
+[//]: # (known-issues-close)
