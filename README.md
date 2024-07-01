@@ -1,7 +1,5 @@
 # MorpheusAI
 
-[//]: # (contest-details-open)
-
 ## Contest Details
 
 - Total Prize Pool: $22,500
@@ -13,6 +11,8 @@
 ## Stats
 - nSLOC: 1054
 - Dollars per nSLOC: $21.35
+
+[//]: # (contest-details-open)
 
 ## About the Project
 
